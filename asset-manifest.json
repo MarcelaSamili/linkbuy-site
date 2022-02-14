@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e0e84331.css",
+    "main.js": "./static/js/main.777545d1.js",
+    "static/media/livro-o-milhagre-do-amanha-linkbuy.jpg": "./static/media/livro-o-milhagre-do-amanha-linkbuy.e801f5b0cdbc429260bf.jpg",
+    "static/media/livro-o-segredo-da-mente-milhonaria-linkbuy.jpg": "./static/media/livro-o-segredo-da-mente-milhonaria-linkbuy.9e0047b38b6948be3b4b.jpg",
+    "static/media/livro-talvez-voce-deva-conversar-com-alguem-linkbuy.jpg": "./static/media/livro-talvez-voce-deva-conversar-com-alguem-linkbuy.71b3e70e72f28a4f333d.jpg",
+    "static/media/livro-mulheres-que-correm-com-os-lobos-linkbuy.jpg": "./static/media/livro-mulheres-que-correm-com-os-lobos-linkbuy.e9e7268c97e285a8c121.jpg",
+    "static/media/Echo-Dot-4ª- Geração-linkbuy.jpg": "./static/media/Echo-Dot-4ª- Geração-linkbuy.89055440a05678329b53.jpg",
+    "static/media/livro-mindset-a-nova-piscologia-do-sucesso-linkbuy.jpg": "./static/media/livro-mindset-a-nova-piscologia-do-sucesso-linkbuy.edd0a238f62fc4c480a0.jpg",
+    "static/media/livro-o-navio-negreiro-linkbuy.jpg": "./static/media/livro-o-navio-negreiro-linkbuy.ff34666337a8485fa649.jpg",
+    "static/media/Carregador-de- Pilhas- Recarregáveis-AA- e-AAA- DURACELL-linkbuy.jpg": "./static/media/Carregador-de- Pilhas- Recarregáveis-AA- e-AAA- DURACELL-linkbuy.da543c09217231879676.jpg",
+    "static/media/LG 25UM58-PF Ultrawide- Monitor-Gamer- LED-25-Full HD-Preto-linkbuy.jpg": "./static/media/LG 25UM58-PF Ultrawide- Monitor-Gamer- LED-25-Full HD-Preto-linkbuy.34fcc580f8e3f77b1fc4.jpg",
+    "static/media/livro-pai-de-rico pai-de-pobre-linkbuy.jpg": "./static/media/livro-pai-de-rico pai-de-pobre-linkbuy.22f8e91a540dd666cad3.jpg",
+    "static/media/livro-o-poder-do-habito-linkbuy.jpg": "./static/media/livro-o-poder-do-habito-linkbuy.d30f460b22be1cd973a7.jpg",
+    "static/media/Apple-iPad 9- Geração-10.2-linkbuy.jpg": "./static/media/Apple-iPad 9- Geração-10.2-linkbuy.5c66371fc07fc3a79983.jpg",
+    "static/media/Wacom-One- CTL472-Mesa- Digitalizadora- Preto-Vermelho-linkbuy.jpg": "./static/media/Wacom-One- CTL472-Mesa- Digitalizadora- Preto-Vermelho-linkbuy.19dd0cd0b6860d466e33.jpg",
+    "static/media/Echo-Dot-3ª- Geração-linkbuy.jpg": "./static/media/Echo-Dot-3ª- Geração-linkbuy.ef4645e146d7f0b4020a.jpg",
+    "static/media/Kindle 10a. geração-linkbuy.jpg": "./static/media/Kindle 10a. geração-linkbuy.d3f4c3dd478ecb385d08.jpg",
+    "static/media/livro-mais-esperto-que-o-diabo-linkbuy.jpg": "./static/media/livro-mais-esperto-que-o-diabo-linkbuy.24ad039258ee4b29ce41.jpg",
+    "static/media/livro-o-homem mais-rico-da-babilonia-linkbuy.jpg": "./static/media/livro-o-homem mais-rico-da-babilonia-linkbuy.2e928f7d10784bf506bc.jpg",
+    "static/media/SSD-A400- Kingston- SA400S37240G- Cinza-linkbuy.jpg": "./static/media/SSD-A400- Kingston- SA400S37240G- Cinza-linkbuy.e1ab9354749b3ddb2256.jpg",
+    "static/media/livro.png": "./static/media/livro.386ab5554e120236124f.png",
+    "static/media/Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta.jpg": "./static/media/Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta.6665e32d6e4ac07fdd6b.jpg",
+    "static/media/Mouse -Pad- Professional- Gaming-Havit- HV-MP830-30x90 cm-linkbuy.jpg": "./static/media/Mouse -Pad- Professional- Gaming-Havit- HV-MP830-30x90 cm-linkbuy.1146f5508317286b9a85.jpg",
+    "static/media/livro-do-mil-a-um-milhao-linkbuy.jpg": "./static/media/livro-do-mil-a-um-milhao-linkbuy.4adf5da9e72da7980108.jpg",
+    "static/media/Suporte-para- Notebook- OCTOO-Uptable- UP-BL-Preto-linkbuy.jpg": "./static/media/Suporte-para- Notebook- OCTOO-Uptable- UP-BL-Preto-linkbuy.d17d37bcd7ee5bb6ce64.jpg",
+    "static/media/carregador-partatil-xaomi-2000-carga-rapida-linkbuy.jpg": "./static/media/carregador-partatil-xaomi-2000-carga-rapida-linkbuy.8855977c218457353d49.jpg",
+    "static/media/eletronicos.png": "./static/media/eletronicos.e0da92171626d42a9900.png",
+    "static/media/livro-quem-pensa-enriquece-linkbuy.jpg": "./static/media/livro-quem-pensa-enriquece-linkbuy.61d565fb8eeb68077e48.jpg",
+    "index.html": "./index.html",
+    "main.e0e84331.css.map": "./static/css/main.e0e84331.css.map",
+    "main.777545d1.js.map": "./static/js/main.777545d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e84331.css",
+    "static/js/main.777545d1.js"
+  ]
+}
