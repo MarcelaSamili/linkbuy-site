@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e0e84331.css",
-    "main.js": "./static/js/main.777545d1.js",
+    "main.css": "./static/css/main.afed2bf7.css",
+    "main.js": "./static/js/main.37e658f9.js",
     "static/media/livro-o-milhagre-do-amanha-linkbuy.jpg": "./static/media/livro-o-milhagre-do-amanha-linkbuy.e801f5b0cdbc429260bf.jpg",
     "static/media/livro-o-segredo-da-mente-milhonaria-linkbuy.jpg": "./static/media/livro-o-segredo-da-mente-milhonaria-linkbuy.9e0047b38b6948be3b4b.jpg",
     "static/media/livro-talvez-voce-deva-conversar-com-alguem-linkbuy.jpg": "./static/media/livro-talvez-voce-deva-conversar-com-alguem-linkbuy.71b3e70e72f28a4f333d.jpg",
@@ -24,16 +24,16 @@
     "static/media/Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta.jpg": "./static/media/Cadeira Gamer EC1, ThunderX3, 2019, Windows_XP, Preta.6665e32d6e4ac07fdd6b.jpg",
     "static/media/Mouse -Pad- Professional- Gaming-Havit- HV-MP830-30x90 cm-linkbuy.jpg": "./static/media/Mouse -Pad- Professional- Gaming-Havit- HV-MP830-30x90 cm-linkbuy.1146f5508317286b9a85.jpg",
     "static/media/livro-do-mil-a-um-milhao-linkbuy.jpg": "./static/media/livro-do-mil-a-um-milhao-linkbuy.4adf5da9e72da7980108.jpg",
+    "static/media/eletronicos.png": "./static/media/eletronicos.c7bfa2594e9d158cd5a1.png",
     "static/media/Suporte-para- Notebook- OCTOO-Uptable- UP-BL-Preto-linkbuy.jpg": "./static/media/Suporte-para- Notebook- OCTOO-Uptable- UP-BL-Preto-linkbuy.d17d37bcd7ee5bb6ce64.jpg",
     "static/media/carregador-partatil-xaomi-2000-carga-rapida-linkbuy.jpg": "./static/media/carregador-partatil-xaomi-2000-carga-rapida-linkbuy.8855977c218457353d49.jpg",
-    "static/media/eletronicos.png": "./static/media/eletronicos.e0da92171626d42a9900.png",
     "static/media/livro-quem-pensa-enriquece-linkbuy.jpg": "./static/media/livro-quem-pensa-enriquece-linkbuy.61d565fb8eeb68077e48.jpg",
     "index.html": "./index.html",
-    "main.e0e84331.css.map": "./static/css/main.e0e84331.css.map",
-    "main.777545d1.js.map": "./static/js/main.777545d1.js.map"
+    "main.afed2bf7.css.map": "./static/css/main.afed2bf7.css.map",
+    "main.37e658f9.js.map": "./static/js/main.37e658f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0e84331.css",
-    "static/js/main.777545d1.js"
+    "static/css/main.afed2bf7.css",
+    "static/js/main.37e658f9.js"
   ]
 }
