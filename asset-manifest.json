@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.afed2bf7.css",
-    "main.js": "./static/js/main.37e658f9.js",
+    "main.css": "./static/css/main.9e00520b.css",
+    "main.js": "./static/js/main.9bd2df52.js",
     "static/media/livro-o-milhagre-do-amanha-linkbuy.jpg": "./static/media/livro-o-milhagre-do-amanha-linkbuy.e801f5b0cdbc429260bf.jpg",
     "static/media/livro-o-segredo-da-mente-milhonaria-linkbuy.jpg": "./static/media/livro-o-segredo-da-mente-milhonaria-linkbuy.9e0047b38b6948be3b4b.jpg",
     "static/media/livro-talvez-voce-deva-conversar-com-alguem-linkbuy.jpg": "./static/media/livro-talvez-voce-deva-conversar-com-alguem-linkbuy.71b3e70e72f28a4f333d.jpg",
@@ -29,11 +29,11 @@
     "static/media/carregador-partatil-xaomi-2000-carga-rapida-linkbuy.jpg": "./static/media/carregador-partatil-xaomi-2000-carga-rapida-linkbuy.8855977c218457353d49.jpg",
     "static/media/livro-quem-pensa-enriquece-linkbuy.jpg": "./static/media/livro-quem-pensa-enriquece-linkbuy.61d565fb8eeb68077e48.jpg",
     "index.html": "./index.html",
-    "main.afed2bf7.css.map": "./static/css/main.afed2bf7.css.map",
-    "main.37e658f9.js.map": "./static/js/main.37e658f9.js.map"
+    "main.9e00520b.css.map": "./static/css/main.9e00520b.css.map",
+    "main.9bd2df52.js.map": "./static/js/main.9bd2df52.js.map"
   },
   "entrypoints": [
-    "static/css/main.afed2bf7.css",
-    "static/js/main.37e658f9.js"
+    "static/css/main.9e00520b.css",
+    "static/js/main.9bd2df52.js"
   ]
 }
